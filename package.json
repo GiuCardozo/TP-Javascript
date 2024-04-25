@@ -1,0 +1,23 @@
+{
+  "name": "tp-javascript",
+  "version": "1.0.0",
+  "description": "Para experimentar en clases",
+  "main": "ejercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiuCardozo/TP-Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiuCardozo/TP-Javascript/issues"
+  },
+  "homepage": "https://github.com/GiuCardozo/TP-Javascript#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
